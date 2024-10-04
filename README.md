@@ -1,4 +1,4 @@
-# Gatling Wait
+# Gatling Wait [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.amerousful/gatling-wait/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.amerousful/gatling-wait/)
 A solution built around Gatling DSL for a convenient way to wait for an event. Three key ingredients:
 1) A condition to wait for
 2) The number of attempts
