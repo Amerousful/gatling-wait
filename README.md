@@ -69,6 +69,9 @@ This plugin records the number of attempts in the `Session`. The counter is stor
 
 ## Installation
 
+> **Important:** This plugin is compatible only with Gatling 3.9.5 and does not work with any versions above 3.9.5.
+
+
 ### Maven:
 
 Add to your `pom.xml`:
